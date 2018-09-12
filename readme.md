@@ -7,5 +7,7 @@ Added .env and sqlite
 just need to add these in your .env
 
 ALGOLIA_APP_ID=
+
 ALGOLIA_SECRET=
+
 ALGOLIA_SEARCH=
